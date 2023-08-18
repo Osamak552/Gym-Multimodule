@@ -94,7 +94,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>${project.groupId}/gymapp:${project.version}</name>
+                        <name>gymapp</name>
                     </image>
                 </configuration>
                 <executions>

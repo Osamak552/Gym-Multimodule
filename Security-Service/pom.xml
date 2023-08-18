@@ -83,7 +83,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>${project.groupId}/securityservice:${project.version}</name>
+                        <name>securityservice</name>
                     </image>
                 </configuration>
                 <executions>

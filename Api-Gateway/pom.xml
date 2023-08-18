@@ -78,7 +78,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>${project.groupId}/apigateway:${project.version}</name>
+                        <name>apigateway</name>
                     </image>
                 </configuration>
                 <executions>

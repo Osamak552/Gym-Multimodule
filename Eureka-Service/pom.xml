@@ -30,7 +30,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>${project.groupId}/eurekaservice:${project.version}</name>
+                        <name>eurekaservice</name>
                     </image>
                 </configuration>
                 <executions>
